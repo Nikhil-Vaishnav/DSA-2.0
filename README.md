@@ -1,1 +1,1 @@
-# tarting DAS with basics.
+# Starting DAS with basics.
