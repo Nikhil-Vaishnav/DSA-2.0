@@ -4,13 +4,13 @@ using namespace std;
 int main(){
     int a , b , c , sum;
 
-    cout<<"Enter the first no. :- ";
+    cout<<"Enter the first no. :-";
     cin>>a;
 
-    cout<<"Enter the Second no. :- ";
+    cout<<"Enter the Second no. :-";
     cin>>b;
 
-    cout<<"Enter the Third no. :- ";
+    cout<<"Enter the Third no. :-";
     cin>>c;
 
     sum = (a + b + c)/3;
