@@ -12,6 +12,6 @@ cin>>b;
 
 sum = a+b;
 
-cout<<"Sum of Two Number is :- "<<sum;
+cout<<"Sum of Two Numbers is:- "<<sum;
 return 0;
 }
